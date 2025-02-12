@@ -53,7 +53,7 @@ ul li a {
 /* Hero section */
 
 .hero {
-    background-image: url(images/article-image-hero.png);
+    background-image: url(../images/article-image-hero.png);
     background-position: center;
     background-size: cover;
     width: 414px;
@@ -63,9 +63,11 @@ ul li a {
     justify-content: flex-end;
     margin: 0 auto;
     text-decoration: none;
+
 }
 .hero img {
     width: 100%;
+    
 }
 .hero time , h1 , p {
     color: #ffffff;
